@@ -10,7 +10,7 @@ Bacharel em Engenharia da Computação(Andamento)<br>Gosto de tecnologia<br>Semp
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=silvatayane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatayane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
