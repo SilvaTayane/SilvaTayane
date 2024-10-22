@@ -13,7 +13,4 @@ Bacharel em Engenharia da Computação(Andamento)<br>Gosto de tecnologia<br>Semp
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatayane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=silvatayane&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
