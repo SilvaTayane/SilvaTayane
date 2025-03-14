@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bacharel em Engenharia da Computação(Andamento)<br>Gosto de tecnologia<br>Sempre em busca de novos conhecimentos
+Acadêmica em Engenharia da Computação | IFMT<br>Gosto de tecnologia<br>Sempre em busca de novos conhecimentos
 
 
 ## 🌐 Socials:
